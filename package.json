@@ -1,0 +1,19 @@
+{
+  "name": "storysphere",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo-status-bar": "*",
+    "@expo/vector-icons": "*",
+    "expo-video": "*",
+    "expo-image-picker": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "react-native-safe-area-context": "*",
+    "expo-document-picker": "*",
+    "expo-audio": "*",
+    "expo-file-system": "*",
+    "@supabase/supabase-js": "^2.45.4",
+    "react-native-url-polyfill": "*",
+    "expo-image-manipulator": "*"
+  }
+}
